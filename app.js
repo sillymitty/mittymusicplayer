@@ -8935,16 +8935,6 @@ paused: !isPlaying,
     });
   }
 
-  if (!localStorage.getItem('riff_bg_seeded')) {
-    localStorage.setItem('riff_bg_seeded', '1');
-    if (localStorage.getItem('riff_bg_url') === null) {
-      localStorage.setItem('riff_bg_url', 'assets/disco.png');
-      updateCustomBg();
-      onBackgroundChanged('custom', true);
-    }
-  }
-
-
   if (sliderBgOpacity) {
     sliderBgOpacity.addEventListener('input', (e) => {
       const v = parseInt(e.target.value, 10);
