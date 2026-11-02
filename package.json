@@ -108,8 +108,8 @@
     "publish": [
       {
         "provider": "github",
-        "owner": "rootscripts",
-        "repo": "riff",
+        "owner": "sillymitty",
+        "repo": "mittymusicplayer",
         "releaseType": "release"
       }
     ]
