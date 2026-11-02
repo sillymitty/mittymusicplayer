@@ -1,33 +1,10 @@
-<p align="center">
-  <img src="banner.png" alt="Riff - free desktop music player for YouTube Music and SoundCloud" width="100%">
-</p>
+<h1 align="center">MMPlayer</h1>
 
-<h1 align="center">Riff</h1>
-
-<p align="center"><b>A free, opensource desktop music player for YouTube Music and SoundCloud. No ads, no account and no telemetry </b></p>
+<p align="center"><b>Play music and stream music ad free, for free</b></p>
 
 <p align="center">
-  <a href="https://github.com/rootscripts/riff/commits/main">
-    <img src="https://img.shields.io/github/last-commit/rootscripts/riff?style=for-the-badge&labelColor=16191C&color=94C9FF" alt="Last Commit">
-  </a>
-  <a href="https://github.com/rootscripts/riff/stargazers">
-    <img src="https://img.shields.io/github/stars/rootscripts/riff?style=for-the-badge&labelColor=16191C&color=CAD3F5" alt="Stars">
-  </a>
-  <a href="https://github.com/rootscripts/riff">
-    <img src="https://img.shields.io/github/repo-size/rootscripts/riff?style=for-the-badge&labelColor=16191C&color=D0B4EB" alt="Repo Size">
-  </a>
-  <a href="https://github.com/rootscripts/riff/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/rootscripts/riff?style=for-the-badge&labelColor=16191C&color=8EEDD8" alt="License">
-  </a>
-  <a href="https://ko-fi.com/rootlesszen">
-    <img src="https://img.shields.io/badge/Ko--fi-rootlesszen?style=for-the-badge&logo=kofi&logoColor=white&labelColor=16191C&color=FF5E5B" alt="Support on Ko-fi">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/rootscripts/riff/releases"><b>Download</b></a> ·
-  <a href="#features">Features</a> ·
-  <a href="#faq">FAQ</a> ·
+  <a href="https://github.com/sillymitty/mittymusicplayer/releases"><b>Download</b></a>
+  <a href="#faq">FAQ</a>
   <a href="#build-from-source">Build from source</a>
 </p>
 
